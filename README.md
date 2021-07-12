@@ -1,6 +1,11 @@
 # Surf's Up Challenge
 ## Overview
-An analysis on the weather in Oahu was performed to determine if opening a surf and ice cream shop would be a lucrative business plan for W. Avy to invest in. This analysis specifically looks at trends in temperature data in the months of June and December in Oahu. to determine if the surf and ice cream shop business is sustainable year-round.
+There is an investment opportunity to invest in a surf and ice cream and surf shop in Oahu, Hawaii. There's an investor interested in the opportunity, but he's concerned that the weather in the rainy months of the year will prevent the business from being lucrative year-round. This analysis specifically looks at trends in temperature data in the months of June and December in Oahu to determine if the surf and ice cream shop business is sustainable year-round.
+
+### Tools
+* Python
+* Pandas
+* SQLAlchemy
 
 ## Results
 ### December Summary Statistics
